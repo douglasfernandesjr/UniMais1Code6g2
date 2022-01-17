@@ -31,5 +31,5 @@ Sessão de dúvidas vai acontecer na proxima aula!
 ## 5. Desafios
 1. Configurar o ambiente.
 2. Fazer o "Olá mundo!".
-3. Criar um pequeno programa que usar mais de uma função. 
+3. Criar um pequeno programa que usa mais de uma função. 
 
