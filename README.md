@@ -16,6 +16,7 @@ Alunes -
 - Pedro Otávio
 
 ## Conteúdo
-- [Introdução a programação com C](https://github.com/douglasfernandesjr/UniMais1Code6g2/blob/main/Aula/C/Introducao_programacao_C.md)
+- [Introdução à programação com C](https://github.com/douglasfernandesjr/UniMais1Code6g2/blob/main/Aula/C/Introducao_programacao_C.md)
+- [Introdução à programação com C - Parte 2](https://github.com/douglasfernandesjr/UniMais1Code6g2/blob/main/Aula/C/Introducao_programacao_C_2.md)
 
 Material em construção...
