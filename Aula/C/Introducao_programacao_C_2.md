@@ -3,7 +3,7 @@
 ## 1 - Introdução a programação com C - Parte 2
 
 ## 2 - Pré-requisitos. 
-- [Term feito a parte 1](https://github.com/douglasfernandesjr/UniMais1Code6g2/blob/main/Aula/C/Introducao_programacao_C.md)
+- [Ter feito a parte 1](https://github.com/douglasfernandesjr/UniMais1Code6g2/blob/main/Aula/C/Introducao_programacao_C.md)
 
 ## 3. Conteúdos
 
