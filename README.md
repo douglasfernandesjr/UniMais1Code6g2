@@ -19,6 +19,6 @@ Alunes -
 - C
     - [Introdução à programação com C](https://github.com/douglasfernandesjr/UniMais1Code6g2/blob/main/Aula/C/Introducao_programacao_C.md)
     - [Introdução à programação com C - Parte 2](https://github.com/douglasfernandesjr/UniMais1Code6g2/blob/main/Aula/C/Introducao_programacao_C_2.md)
-- |Git
-     - [Introdução à programação com C](https://github.com/douglasfernandesjr/UniMais1Code6g2/blob/main/Aula/Git/Introducao_ao_git.md)
+- Git
+     - [Introdução ao Git](https://github.com/douglasfernandesjr/UniMais1Code6g2/blob/main/Aula/Git/Introducao_ao_git.md)
 Material em construção...
