@@ -14,7 +14,7 @@
 - [Um guia prático para começar com git. sem complicação ;)](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 - Aprenda git de forma interativa - [learngitbranching](https://learngitbranching.js.org/?locale=pt_BR)
 ## 4. Sessões de dúvida.
-Para quando o conteúdo passar por mais aulas. 
+Sessão de dúvidas vai acontecer na proxima aula!
 
 ## 5. Desafios
 1. Criar seu primeiro projeto no github e usar ele.
