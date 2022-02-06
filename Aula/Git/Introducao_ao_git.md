@@ -13,6 +13,10 @@
 - [COMO USAR GIT E GITHUB NA PRÁTICA! - desde o primeiro commit até o pull request! 2/2](https://www.youtube.com/watch?v=UBAX-13g8OM)
 - [Um guia prático para começar com git. sem complicação ;)](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 - Aprenda git de forma interativa - [learngitbranching](https://learngitbranching.js.org/?locale=pt_BR)
+- Dica importante para facilidade no uso do github:
+    1. Crie o repositório através da interface do github.
+    2. Depois clone ele através do git para iniciar o uso.
+
 ## 4. Sessões de dúvida.
 Sessão de dúvidas vai acontecer na proxima aula!
 
