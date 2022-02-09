@@ -13,7 +13,7 @@ Mentor - [@douglasfernandesjr](https://github.com/douglasfernandesjr)
 Alunes -
 - Júlia Costa
 - Rafael Aires - [@dahawDev](https://github.com/dahawDev)
-- Pedro Otávio
+- Pedro Otávio - [@Pedrootaviom94](https://github.com/Pedrootaviom94)
 
 ## Conteúdo
 - C
