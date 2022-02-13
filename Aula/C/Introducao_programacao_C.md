@@ -19,7 +19,7 @@
 - [Introdução à Programação - Aula 05 - Um Primeiro Programa](https://www.youtube.com/watch?v=4zwCdHnxmXU&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=5)
 - [Introdução à Programação - Aula 06 - Um Primeiro Programa (continuação)](https://www.youtube.com/watch?v=xbo-iIYAsis&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=6)
 - [Introdução à Programação - Aula 07 - Variáveis](https://www.youtube.com/watch?v=8paHwOWvxko&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=7)
-- [ntrodução à Programação - Aula 08 - Funções](https://www.youtube.com/watch?v=VbYOt_Ocy-E&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=8)
+- [Introdução à Programação - Aula 08 - Funções](https://www.youtube.com/watch?v=VbYOt_Ocy-E&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=8)
 
 ### Link de Apoio
 - [Programar em C](https://pt.wikihow.com/Programar-em-C)

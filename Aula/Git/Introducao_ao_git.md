@@ -1,6 +1,6 @@
-# Introdução à Git
+# Introdução ao Git com Github
 
-## 1 - Introdução à Git
+## 1 - Introdução ao Git com Github
 
 ## 2 - Pré-requisitos. 
 - Criar uma conta no github - [github.com](https://github.com/)
