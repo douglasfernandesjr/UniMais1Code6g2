@@ -7,14 +7,14 @@
 
 ## 3. Conteúdos
 
-- [Introdução à Programação - Aula 09 - Type Casting e Escopo de Variáveis](https://www.youtube.com/watch?v=moAc2-kC-zc&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=9)
-- [Introdução à Programação - Aula 10 - Condicionais (parte 1)](https://www.youtube.com/watch?v=ir8kSlda7VU&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=10)
-- [Introdução à Programação - Aula 11 - Condicionais (parte 2)](https://www.youtube.com/watch?v=LKOgwmmzOmw&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=11)
-- [Introdução à Programação - Aula 12 - Operadores Lógicos](https://www.youtube.com/watch?v=8ARO9QrXhXI&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=12)
-- [Introdução à Programação - Aula 13 - Condicionais (parte 3)](https://www.youtube.com/watch?v=4zwCdHnxmXU&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=13)
-- [Introdução à Programação - Aula 14 - Laços (parte 1)](https://www.youtube.com/watch?v=xbo-iIYAsis&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=14)
-- [Introdução à Programação - Aula 15 - Laços (parte 2)](https://www.youtube.com/watch?v=8paHwOWvxko&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=15)
-- [Introdução à Programação - Aula 16 - Laços (parte 3)](https://www.youtube.com/watch?v=VbYOt_Ocy-E&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=16)
+- [Introdução à Programação - Aula 09 - Type Casting e Escopo de Variáveis](https://www.youtube.com/watch?v=-nQzumSthyQ&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=9)
+- [Introdução à Programação - Aula 10 - Condicionais (parte 1)](https://www.youtube.com/watch?v=yInp92X7gRw&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=10)
+- [Introdução à Programação - Aula 11 - Condicionais (parte 2)](https://www.youtube.com/watch?v=BrbuOr676XI&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=11)
+- [Introdução à Programação - Aula 12 - Operadores Lógicos](https://www.youtube.com/watch?v=jBuHWdkwvsA&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=12)
+- [Introdução à Programação - Aula 13 - Condicionais (parte 3)](https://www.youtube.com/watch?v=IPaD-orfLNQ&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=13)
+- [Introdução à Programação - Aula 14 - Laços (parte 1)](https://www.youtube.com/watch?v=a3l48dPVHok&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=14)
+- [Introdução à Programação - Aula 15 - Laços (parte 2)](https://www.youtube.com/watch?v=nAVeU1Y6FrA&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=15)
+- [Introdução à Programação - Aula 16 - Laços (parte 3)](https://www.youtube.com/watch?v=AuVlpC7f1L8&list=PL_JAaU8k6DQWsh1mt8vwpP8YsH6Xhgq2N&index=16)
 
 ### Link de Apoio
 - [Programar em C](https://pt.wikihow.com/Programar-em-C)
