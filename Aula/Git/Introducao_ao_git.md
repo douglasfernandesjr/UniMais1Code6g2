@@ -12,6 +12,7 @@
 - [O QUE É GIT E GITHUB? - definição e conceitos importantes 1/2](https://www.youtube.com/watch?v=DqTITcMq68k)
 - [COMO USAR GIT E GITHUB NA PRÁTICA! - desde o primeiro commit até o pull request! 2/2](https://www.youtube.com/watch?v=UBAX-13g8OM)
 - [Um guia prático para começar com git. sem complicação ;)](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+- [Tutorial de introdução ao git](https://github.com/rafaballerini/GitTutorial)
 - Aprenda git de forma interativa - [learngitbranching](https://learngitbranching.js.org/?locale=pt_BR)
 - Dica importante para facilidade no uso do github:
     1. Crie o repositório através da interface do github.
