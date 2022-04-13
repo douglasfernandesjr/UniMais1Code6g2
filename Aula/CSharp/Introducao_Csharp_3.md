@@ -18,6 +18,7 @@
 ### Introdução
 1. [O MÍNIMO QUE VOCÊ PRECISA SABER ANTES DE PROGRAMAR!](https://www.youtube.com/watch?v=BTENKdRVS2U)
 2. [C# // Dicionário do Programador](https://www.youtube.com/watch?v=NXVQasys0B8)
+
 ### Introdução ao C# oficial 
 - [Dê seus primeiros passos com o C#](https://docs.microsoft.com/pt-br/learn/paths/csharp-first-steps/?WT.mc_id=dotnet-35129-website&ns-enrollment-type=Collection&ns-enrollment-id=yz26f8y64n7k07)
 - [Adicione lógica aos seus aplicativos com C#](https://docs.microsoft.com/pt-br/learn/paths/csharp-logic/?WT.mc_id=dotnet-35129-website&ns-enrollment-type=Collection&ns-enrollment-id=yz26f8y64n7k07)
@@ -28,6 +29,7 @@
 
 ### Link de Apoio
 - [Documentação Oficial](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+- [C# no W3Schools](https://www.w3schools.in/csharp/tutorials/)
 
 ## 4. Sessões de dúvida.
 
