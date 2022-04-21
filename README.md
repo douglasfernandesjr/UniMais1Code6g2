@@ -26,5 +26,6 @@ Alunes -
     - [Introdução a C# - Parte 1](https://github.com/douglasfernandesjr/UniMais1Code6g2/blob/main/Aula/CSharp/Introducao_Csharp_1.md)
     - [Introdução a C# - Parte 2](https://github.com/douglasfernandesjr/UniMais1Code6g2/blob/main/Aula/CSharp/Introducao_Csharp_2.md)
     - [Introdução a C# - Parte 3](https://github.com/douglasfernandesjr/UniMais1Code6g2/blob/main/Aula/CSharp/Introducao_Csharp_3.md)
-
+- Asp.Net Core
+    - [# 1 - Introdução ao ASP.NET Core - Parte 1](https://github.com/douglasfernandesjr/UniMais1Code6g2/blob/main/Aula/AspNet/Introducao_Aspnet_1.md)
 - Material em construção...
